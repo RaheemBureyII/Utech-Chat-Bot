@@ -17,5 +17,9 @@ A smart AI-powered chatbot designed to assist students at the **University of Te
 ## 📽️ Demo Video  
 Check out the chatbot in action: 
 
+
+https://github.com/user-attachments/assets/6be585d3-c158-4df1-b50d-559fc0ca3952
+
+
 ---
 
